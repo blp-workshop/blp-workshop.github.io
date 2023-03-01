@@ -1,0 +1,67 @@
+# # Setup
+# title:        Project or Site name
+# tagline:      A responsive theme for your project on GitHub Pages
+# baseurl:      ""
+# paginate:     1
+# locale:       "en"
+
+# # About/contact
+# author:
+#   name:       Author name
+#   url:        http://yourhomepage.com 
+
+# # Gems
+# gems:
+#   - jekyll-paginate
+
+# #Others
+# markdown: kramdown
+theme: jekyll-theme-cayman
+# Site Settings
+locale                   : "en"
+baseurl                  : ""
+title                    : "First Workshop on Language Processing in Bangla"
+title_separator          : "-"
+name                     : "Bangla NLP"
+description              : "Bangla NLP" 
+breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : "bangla-nlp-workshop"
+reCaptcha:
+  siteKey                :
+  secret                 :
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
+search_full_content      : # true, false (ssdefault)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+# Google services
+#google_analytics: UA-204298917-1
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
+# # Reading Files
+# include : ['.htaccess', '_pages', ]
+
+# Includes an icon in the footer for each username you enter
+#footer-links:
+#  dribbble:
+#  email: multiconer-semeval@googlegroups.com
+  # facebook: naaclsrw2019
+  # github: naacl2019-srw
+  # twitter: 2019Srw
+  

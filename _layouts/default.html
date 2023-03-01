@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+  
+  {% include head.html %}
+
+  <body>
+    {% include page-header.html %}
+
+    {% capture nowdate %}{{'now' | date: '%s' | minus: 86400 }}{% endcapture %}
+      {% capture trialdata %}{{'July 15 2022' | date: '%s'}}{% endcapture %}
+      {% capture trainingdata %}{{'September 30 2022' | date: '%s'}}{% endcapture %}
+<!--      {% capture testdata %}{{'December 3 2021' | date: '%s'}}{% endcapture %}-->
+      {% capture evalstart %}{{'January 25 2023' | date: '%s'}}{% endcapture %}
+      {% capture evalend %}{{'February 1 2023' | date: '%s'}}{% endcapture %}
+      {% capture postresult %}{{'February 5 2023' | date: '%s'}}{% endcapture %}
+      {% capture papersubsys %}{{'February 28 2023' | date: '%s'}}{% endcapture %}
+      {% capture papersubtask %}{{'May 1 2023' | date: '%s'}}{% endcapture %}
+      {% capture notif %}{{'October 9 2023' | date: '%s'}}{% endcapture %}
+      {% capture cam %}{{'October 16 2023' | date: '%s'}}{% endcapture %}
+
+
+    <section class="main-content">
+      <div id="side-table-wrapper" style="float:right; width:310px; font-size: small">
+          
+<!--
+          <h4 id="side-table-header">Recent Updates</h4><br>
+          <div style="background-color: beige">
+          <ul>
+              
+          </ul>
+              </div>
+-->
+          
+        <h4 id="side-table-header">Important Dates</h4>
+        <table id="important-dates" class="table table-condensed">
+          <tbody>
+<!--
+            <tr><td>Trial Data Ready</td>
+              <td>
+                {% assign datediff = trialdata | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if trialdata < nowdate %} <strike> <font color="grey">{% endif %}
+                {% if datediff < 30 and datediff > -1 %} <font color="dc983e"> {% endif %}
+                {{ trialdata | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+            <tr><td>Training Data Ready</td>
+              <td>
+                {% if trainingdata < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = trainingdata | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ trainingdata | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+-->
+<!--
+            <tr><td>Test Data Ready</td>
+              <td>
+                {% if testdata < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = testdata | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 60  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ testdata | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+-->
+<!--
+            <tr><td>Evaluation Start</td>
+              <td>
+                {% if evalstart < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = evalstart | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 60  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ evalstart | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+            <tr><td>Evaluation End</td>
+              <td>
+                {% if evalend < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = evalend | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ evalend | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+-->
+<!--
+            <tr><td>Results Posted</td>
+              <td>
+                {% if postresult < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = postresult | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ postresult | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+-->
+<!--
+            <tr><td>System Description Paper Submission Due</td>
+              <td>
+                {% if papersubsys < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = papersubsys | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ papersubsys | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+-->
+<!--
+            <tr><td>Task Description Paper Submission Due</td>
+              <td>
+                {% if papersubtask < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = papersubtask | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ papersubtask | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+-->
+            <tr><td>Notification to Authors</td>
+              <td>
+                {% if notif < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = notif | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ notif | date: "%b %-d (%a), %Y" }}
+              </td>
+            </tr>
+            
+            <tr><td>Camera-ready Due</td>
+              <td>
+                {% if nowdate < nowdate %} <strike> <font color="grey">{% endif %}
+                {% assign datediff = cam | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
+                {% if datediff < 13  and datediff > -1 %} <font color="red"> {% endif %}
+                {{ cam | date: "%b %-d (%a), %Y" }}
+                
+              </td>
+            </tr>
+            <tr><td>Workshop</td>
+              <td>7-8 December 2023 co-located with <a href="https://2023.emnlp.org/" target="_blank">EMNLP</a></td>
+            </tr>
+
+            <tr>
+              <p align="center"><small>* These dates are approximate date based on EMNLP 2022 and are subject to changes.</small></p>
+              <p align="center"><small>* <em>All deadlines are calculated at 11:59 pm <br> UTC-12 hours</em></small></p>
+            </tr>
+          </tbody></table>
+          </font><br>
+
+        
+      </div>
+      <!-- ===================================== -->
+      {{ content }}
+
+      {% include page-footer.html %}
+
+    </section>
+
+  </body>
+</html>
