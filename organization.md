@@ -7,16 +7,19 @@ order : 1
 
 # Workshop Organizing Team
 
-<h4> <a href="http://sudiptakar.info" target="_blank">Sudipta Kar</a></h4> 
-{: style="margin: 0" }
-Amazon Alexa AI, Seattle, USA
-{: style="margin: 0" }
-<span style="color:red">(Primary Contact) firstname.lastname.8080 at gmail dot com</span>
-
 
 <h4> <a href="https://firojalam.one" target="_blank">Firoj Alam</a></h4>
 {: style="margin: 0" }
 Qatar Computing Research Institute, Qatar
+{: style="margin: 0" }
+<span style="color:red">(Contact) [firstname][lastname] at gmail dot com</span>
+
+<h4> <a href="http://sudiptakar.info" target="_blank">Sudipta Kar</a></h4> 
+{: style="margin: 0" }
+Amazon Alexa AI, Seattle, USA
+{: style="margin: 0" }
+<span style="color:red">(Contact) [firstname].[lastname].[8080] at gmail dot com</span>
+
 
 <h4> <a href="http://shammur.one/" target="_blank">Shammur Absar Chowdhury</a></h4>
 {: style="margin: 0" }
