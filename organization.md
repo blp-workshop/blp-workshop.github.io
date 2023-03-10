@@ -27,7 +27,7 @@ Qatar Computing Research Institute, Qatar
 
 <h4> <a href="https://people.bengali.ai/sushmit" target="_blank">‪Asif Shahriyar Sushmit</a></h4>
 {: style="margin: 0" }
-Rensselaer Polytechnic Institute, New York, USA
+Rensselaer Polytechnic Institute, New York, USA, Bengali AI
 
 <h4> <a href="https://sites.google.com/site/farigsadeque" target="_blank">Farig Sadeque</a></h4>
 {: style="margin: 0" }
