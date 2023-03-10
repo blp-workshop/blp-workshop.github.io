@@ -9,7 +9,6 @@
     {% capture nowdate %}{{'now' | date: '%s' | minus: 86400 }}{% endcapture %}
       {% capture trialdata %}{{'July 31 2021' | date: '%s'}}{% endcapture %}
       {% capture trainingdata %}{{'September 3 2021' | date: '%s'}}{% endcapture %}
-<!--      {% capture testdata %}{{'December 3 2021' | date: '%s'}}{% endcapture %}-->
       {% capture evalstart %}{{'January 24 2022' | date: '%s'}}{% endcapture %}
       {% capture evalend %}{{'January 30 2022' | date: '%s'}}{% endcapture %}
       {% capture postresult %}{{'March 18 2020' | date: '%s'}}{% endcapture %}
@@ -21,7 +20,6 @@
 
     <section class="main-content">
       
-      <!-- ===================================== -->
       {{ content }}
 
       {% include page-footer.html %}
