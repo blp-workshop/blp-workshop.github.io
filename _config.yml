@@ -46,8 +46,8 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
-#Google services
-google_analytics: UA-260219491-1
+# Google services
+#google_analytics: UA-204298917-1
 
 # SEO Related
 google_site_verification :
