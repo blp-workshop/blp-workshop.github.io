@@ -1,1 +1,1 @@
-# bangla-nlp-workshop.github.io
+blp-workshop.github.io
