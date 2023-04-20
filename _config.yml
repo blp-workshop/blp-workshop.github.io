@@ -8,7 +8,7 @@
 # # About/contact
 # author:
 #   name:       Author name
-#   url:        http://yourhomepage.com 
+#   url:        http://yourhomepage.com
 
 # # Gems
 # gems:
@@ -23,7 +23,7 @@ baseurl                  : ""
 title                    : "First Workshop on Language Processing in Bangla"
 title_separator          : "-"
 name                     : "Bangla NLP"
-description              : "Bangla NLP" 
+description              : "Bangla NLP"
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -54,14 +54,13 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
+
 # # Reading Files
-# include : ['.htaccess', '_pages', ]
+include : ['.htaccess', '_pages', ]
 
 # Includes an icon in the footer for each username you enter
-#footer-links:
-#  dribbble:
-#  email: multiconer-semeval@googlegroups.com
-  # facebook: naaclsrw2019
-  # github: naacl2019-srw
-  # twitter: 2019Srw
-  
+footer-links:
+  email: bangla.nlp.workshop@gmail.com
+  facebook: ""
+  github: "https://github.com/blp-workshop"
+  twitter: ""
