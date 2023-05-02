@@ -41,7 +41,7 @@ order : 1
 - Sajjadur Rahman, Megagon Labs, Inc.
 - Sarah Masud Preum, Dartmouth College
 - Shafiq Rayhan Joty, Associate Professor -- NTU, Research Manager -- Salesforce
-- Sheak Rashed Haider Noori	Daffodil University
+- Sheak Rashed Haider Noori,	Daffodil University
 - Shubhra (Santu) Karmaker, Auburn University
 - Sivaji Bandyopadhay, National Institute of Technology Silchar
 - Soujanya Poria, Singapore University of Technology and Design
