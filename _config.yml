@@ -60,7 +60,7 @@ include : ['.htaccess', '_pages', ]
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: bangla.nlp.workshop@gmail.com
-  facebook: ""
+  email: "bangla.nlp.workshop@gmail.com"
+  #facebook: ""
   github: "https://github.com/blp-workshop"
   twitter: ""

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.locale }}">
-  
+
   {% include head.html %}
 
   <body>
@@ -14,23 +14,23 @@
       {% capture evalend %}{{'February 1 2023' | date: '%s'}}{% endcapture %}
       {% capture postresult %}{{'February 5 2023' | date: '%s'}}{% endcapture %}
       {% capture papersubsys %}{{'February 28 2023' | date: '%s'}}{% endcapture %}
-      {% capture papersubtask %}{{'May 1 2023' | date: '%s'}}{% endcapture %}
-      {% capture notif %}{{'October 9 2023' | date: '%s'}}{% endcapture %}
-      {% capture cam %}{{'October 16 2023' | date: '%s'}}{% endcapture %}
+      {% capture papersubtask %}{{'September 1 2023' | date: '%s'}}{% endcapture %}
+      {% capture notif %}{{'October 6 2023' | date: '%s'}}{% endcapture %}
+      {% capture cam %}{{'October 18 2023' | date: '%s'}}{% endcapture %}
 
 
     <section class="main-content">
       <div id="side-table-wrapper" style="float:right; width:310px; font-size: small">
-          
+
 <!--
           <h4 id="side-table-header">Recent Updates</h4><br>
           <div style="background-color: beige">
           <ul>
-              
+
           </ul>
               </div>
 -->
-          
+
         <h4 id="side-table-header">Important Dates</h4>
         <table id="important-dates" class="table table-condensed">
           <tbody>
@@ -100,8 +100,8 @@
               </td>
             </tr>
 -->
-<!--
-            <tr><td>Task Description Paper Submission Due</td>
+
+            <tr><td>Paper submission due</td>
               <td>
                 {% if papersubtask < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = papersubtask | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
@@ -109,8 +109,8 @@
                 {{ papersubtask | date: "%b %-d (%a), %Y" }}
               </td>
             </tr>
--->
-            <tr><td>Notification to Authors</td>
+
+            <tr><td>Notification of acceptance</td>
               <td>
                 {% if notif < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = notif | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
@@ -118,28 +118,28 @@
                 {{ notif | date: "%b %-d (%a), %Y" }}
               </td>
             </tr>
-            
-            <tr><td>Camera-ready Due</td>
+
+            <tr><td>Camera-ready due</td>
               <td>
                 {% if nowdate < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = cam | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
                 {% if datediff < 13  and datediff > -1 %} <font color="red"> {% endif %}
                 {{ cam | date: "%b %-d (%a), %Y" }}
-                
+
               </td>
             </tr>
             <tr><td>Workshop</td>
-              <td>7-8 December 2023 co-located with <a href="https://2023.emnlp.org/" target="_blank">EMNLP</a></td>
+              <td>6-7 December 2023 co-located with <a href="https://2023.emnlp.org/" target="_blank">EMNLP</a></td>
             </tr>
 
             <tr>
-              <p align="center"><small>* These dates are approximate date based on EMNLP 2022 and are subject to changes.</small></p>
+              <!-- <p align="center"><small>* These dates are approximate date based on EMNLP 2023 and are subject to changes.</small></p> -->
               <p align="center"><small>* <em>All deadlines are calculated at 11:59 pm <br> UTC-12 hours</em></small></p>
             </tr>
           </tbody></table>
           </font><br>
 
-        
+
       </div>
       <!-- ===================================== -->
       {{ content }}

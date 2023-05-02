@@ -14,7 +14,7 @@ Bangla – a member of the Indo-Aryan language family, is ranked as the 6th most
 ### Call for papers:
 This workshop aims to provide a forum for the NLP community to share and discuss their ongoing work with the international community. We particularly focus on Bangla, which is a low-resource language, and assess its current state-of-the-art and discuss strategies to make further progress in both NLP, Speech and multimodal research. Through this workshop, we plan to bring researchers together to come up with frameworks and strategies that can later support other low-resource languages. We particularly encourage researchers to submit their papers focusing on novel methodologies and resources that help towards the progress of Bangla and other low resource languages. Novel methodologies include, but are not limited to, zero-shot learning, unsupervised learning, and simple yet effective methods applicable to low-computation scenarios.
 
-**Topics of interest include, but are not limited to:**
+**We invite original research papers from a wide range of topics, including but not limited to:**
 <br>
 **Natural Language Processing:** Corpus and Resource Development, Language Modeling,  Stemmer, POS Tagger, Named Entity Recognition, Relation Extraction, Spell and Grammar Checker, Question Answering, Semantics, Text Summarization, Machine Translation, Sentiment Analysis.
 <br>
@@ -25,45 +25,46 @@ This workshop aims to provide a forum for the NLP community to share and discuss
 **Human Computer Interaction:** Software for Disabled People, Multimodal HCI for Bangla.
 
 ### Important dates:
-- First call for workshop papers: 25 April 2023
-- Second call for workshop papers: 1 June 2023
-#- Latest ARR submission deadline for ARR: 15 July 2023
-#Latest ARR commitment deadline: 2 October 2023
-- Workshop paper due: 7 September 2023
-- Notification of acceptance: 9 October 2023
-- Camera-ready papers due: 16 October 2023
-- Workshop dates: 7-8 December 2023
+<!-- - First call for workshop papers: 25 April 2023
+- Second call for workshop papers: 1 June 2023 -->
+- Workshop paper due: 1 September 2023
+- Notification of acceptance: 6 October 2023
+- Camera-ready papers due: 18 October 2023
+- Workshop dates: 6-7 December 2023
 
 ***All deadlines are 11:59pm anywhere on Earth (AoE)***
 
-### Submission:
-Papers must describe original, completed/ in progress and unpublished work. Each submission  will be reviewed by three program committee members. Accepted papers will be given up to 9 pages (for full papers), 5 pages (for short papers and posters) in the workshop proceedings, and will be presented as oral paper or poster. Papers should be formatted according to the EMNLP 2023  style-sheet, which is provided on the website. Please submit papers in PDF format.
+### Submission Details:
+Papers must describe original, completed or in-progress, and unpublished work. All papers will be refereed through a double-blind peer review process by multiple reviewers with final acceptance decisions made by the workshop organizers. Accepted papers will be given up to 9 pages (for full papers), 5 pages (for short papers and posters) in the workshop proceedings, and will be presented as oral paper or poster.
 
 **We are seeking submissions under the following categories:**
 <br>
+- We are seeking submissions under the following category
 - Full papers (8 pages)
-- Short papers (work in progress, innovative ideas/proposals, research proposal of students: : 4 pages)
-- Shared task paper (6 pages)
+- Short papers (work in progress, innovative ideas/proposals: 4 pages)
+- Shared task papers (4 pages)
 
-Both long and short papers must follow the EMNLP 2023 two-column format, using the supplied official style files. The templates can be downloaded in  Style Files and Formatting. Please do not modify these style files, nor  should you use templates designed for other conferences. Submissions that do  not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. Verification To guarantee conformance to publication standards, we will be using the ACL Pubcheck tool (https://github.com/acl-org/aclpubcheck). The PDFs of camera-ready papers must be run through this tool prior to their final submission, and we recommend its use also at submission time. Note that references are not included in the page count.
 
-For the Anonymity, Double-Blind submission and Reproducibility Criteria please follow the EMNLP 2023 instructions [https://2023.emnlp.org/calls/main_conference_papers/](For the Anonymity, Double-Blind submission and Reproducibility Criteria please follow the EMNLP 2023 instructions https://2023.emnlp.org/calls/main_conference_papers/.).
+Both long and short papers must follow the EMNLP 2023 two-column format, using the supplied official templates [1](https://2023.emnlp.org/calls/style-and-formatting/). The templates can be downloaded in style files and formatting. Please do not modify these style files, nor  should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review. Verification to guarantee conformance to publication standards, we will be using the ACL pubcheck tool [2](https://github.com/acl-org/aclpubcheck). The PDFs of camera-ready papers must be run through this tool prior to their final submission, and we recommend its use also at submission time.
+
+Submissions are open to all, and are to be submitted anonymously. For the anonymity, double-blind submission and reproducibility criteria please follow the EMNLP 2023 instructions [3](https://2023.emnlp.org/calls/main_conference_papers/).
+
+If you have published in the field previously, and are interested in helping out in the program committee to review papers, please fill up this form [4](https://forms.gle/1WUYQjWT9UuqioX48)!
 
 #### Submission portal: TBA
 
-### Shared tasks:
-To motivate the NLP community and young researchers towards increasing the efforts in Bangla Language Processing, we offer a number of shared tasks
-1. [Automatic Speech Recognition (ASR)](https://blp-workshop.github.io/sharedtasks2023/task1)
-2. [Document Layout Analysis (LDA)]((https://blp-workshop.github.io/sharedtasks2023/task2))
-3. [Grammatical Error Detection and Correction]((https://blp-workshop.github.io/sharedtasks2023/task3))
-4. [Violence Inciting Text Detection (VITD)]((https://blp-workshop.github.io/sharedtasks2023/task1))
+<!-- ### Keynote Talks
+To be announced. -->
+<!-- If you have any good suggestions, or anyone you would like to listen to, please contact us. -->
 
+<!-- #The BLP 2023 Organizing Committee -->
 
+**If you have any questions, please contact us at: bangla.nlp.workshop@gmail.com**
 
-### Organizers
+<!-- ### Organizers
 - [Firoj Alam](http://sites.google.com/site/firojalam/), Qatar Computing Research Institute, HBKU, Qatar
 - [Sudipta Kar](http://sudiptakar.info/), Amazon Alexa AI, USA
 - [Shammur Absar Chowdhury](http://shammur.one/), Qatar Computing Research Institute, HBKU, Qatar
 - [Farig Sadeque](https://sites.google.com/site/farigsadeque), BRAC University, Bangladesh
 - [Ruhul Amin](https://ruhulsbu.github.io/), Fordham University, USA
-- [Asif Shahriyar Sushmit](https://people.bengali.ai/sushmit), Rensselaer Polytechnic Institute, USA
+- [Asif Shahriyar Sushmit](https://people.bengali.ai/sushmit), Rensselaer Polytechnic Institute, USA -->
