@@ -10,7 +10,8 @@ The first Bangla Language Processing (BLP) Workshop will be co-located with EMNL
 
 
 ## News
-- April 25 Website is up!
+- May 12 First call for paper!
+- May 12 Website is up!
 <br>
 <br>
 <br>
