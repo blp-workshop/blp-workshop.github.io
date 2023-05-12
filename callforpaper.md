@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Call for Papers"
-permalink: /callforpaper/
+permalink: /callforpaper
 order : 1
 ---
 
