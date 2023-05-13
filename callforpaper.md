@@ -20,7 +20,7 @@ The First Bangla Language Processing Workshop workshop aims to provide a forum f
 <br>
 **Multimodality:** OCR - Handwriting, Printed Document, Sign Language Detection and other areas related to multimodality
 <br>
-**Human Computer Interaction:** Software for Disabled People, Multimodal HCI for Bangla.
+**Human Computer Interaction:** Software for People with Diverse Abilities, Multimodal HCI for Bangla.
 
 ### Important dates:
 <!-- - First call for workshop papers: 25 April 2023
