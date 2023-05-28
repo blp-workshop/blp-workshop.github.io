@@ -7,6 +7,5 @@ order : 1
 
 # Contact
 
-* [Join us in Slack](https://join.slack.com/t/blpworkshop/shared_invite/zt-1ryu9eyac-7fevK9A4_Bt~qN_eCK349g)
-* [Subscribe to the task mailing list](blp-workshop@googlegroups.com)
-* [Contact the organizers](https://join.slack.com/t/blpworkshop/shared_invite/zt-1ryu9eyac-7fevK9A4_Bt~qN_eCK349g)
+* Please email **Firoj Alam** ([firstname][lastname] at gmail dot com) and **Sudipta Kar** ([firstname].[lastname].[8080] at gmail dot com) for workshop related queries.
+* Join us in [Slack](https://join.slack.com/t/blpworkshop/shared_invite/zt-1ryu9eyac-7fevK9A4_Bt~qN_eCK349g) to connect with the bigger community.

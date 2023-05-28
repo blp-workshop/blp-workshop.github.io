@@ -44,6 +44,7 @@ We thank [Shoaib Ahmed Dipu](https://www.bracu.ac.bd/about/people/shoaib-ahmed-d
 - Sajjadur Rahman, Megagon Labs, Inc.
 - Sarah Masud Preum, Dartmouth College
 - Shafiq Rayhan Joty, Associate Professor -- NTU, Research Manager -- Salesforce
+- Shanta Tawhida, Dhaka Univeristy
 - Sheak Rashed Haider Noori,	Daffodil University
 - Shubhra (Santu) Karmaker, Auburn University
 - Sivaji Bandyopadhay, National Institute of Technology Silchar

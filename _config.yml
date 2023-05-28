@@ -20,7 +20,7 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "First Workshop on Language Processing in Bangla"
+title                    : "First Workshop on Bangla Language Processing"
 title_separator          : "-"
 name                     : "Bangla NLP"
 description              : "Bangla NLP"
@@ -60,7 +60,7 @@ include : ['.htaccess', '_pages', ]
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: "bangla.nlp.workshop@gmail.com"
+  email: ""
   #facebook: ""
-  github: "https://github.com/blp-workshop"
+  github: ""
   twitter: ""
