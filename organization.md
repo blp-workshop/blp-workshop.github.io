@@ -12,7 +12,6 @@ order : 1
 - [Shammur Absar Chowdhury](http://shammur.one/), Qatar Computing Research Institute, Qatar
 - [Farig Sadeque](https://sites.google.com/site/farigsadeque), BRAC University, Dhaka, Bangladesh
 - [Ruhul Amin](https://ruhulsbu.github.io), Fordham University, New York, USA
-- [Asif Shahriyar Sushmit](https://people.bengali.ai/sushmit), Rensselaer Polytechnic Institute, New York, USA, Bengali AI
 
 
 ### Acknowledgements:
