@@ -30,27 +30,34 @@ We thank [Shoaib Ahmed Dipu](https://www.bracu.ac.bd/about/people/shoaib-ahmed-d
 - Debanjan Ghosh, ETS
 - Farhana Diba, The George Washington University
 - Jeniya Tabassum, Amazon
-- M Saiful Islam,	University of Alberta
-- M. Moshiul Hoque	CUET
-- Md. Rashad Al Hasan Rony,	BMW, Germani
-- Md. Sanzidul Islam,	Daffodil University
+- M Saiful Islam, University of Alberta
+- M. Moshiul Hoque, CUET
+- Matin Saad Abdullah, BRAC University
+- Md Taufiq Nasseef, Prince Sattam Bin Abdulaziz University
+- Md. Rafiul Biswas, HBKU
+- Md. Rashad Al Hasan Rony,	BMW, Germany
+- Md. Sanzidul Islam, Daffodil University
 - Md. Towhidul Absar Chowdhury, Rochester Institute of Technology
 - Mohammod Akib Khan, Venturas Limited
+- Naira Khan, Dhaka University
 - Niladri Sekhar Dash, ISI
 - Rabindra Nath Nandi, Hishab Singapore Pte. Ltd
 - Rifat Shahriyar, BUET
 - Saddam Hossain, United International University
 - Sajjadur Rahman, Megagon Labs, Inc.
+- Sanaul Haque, Jönköping University
 - Sarah Masud Preum, Dartmouth College
-- Shafiq Rayhan Joty, Associate Professor -- NTU, Research Manager -- Salesforce
-- Shanta Tawhida, Dhaka Univeristy
-- Sheak Rashed Haider Noori,	Daffodil University
+- Shafiq Rayhan Joty, NTU and Salesforce
+- Shafiqul Islam, University of Essex
+- Sheak Rashed Haider Noori, Daffodil University
 - Shubhra (Santu) Karmaker, Auburn University
 - Sivaji Bandyopadhay, National Institute of Technology Silchar
 - Soujanya Poria, Singapore University of Technology and Design
+- Soumya Sarkar, Applied Scientist, Microsoft
 - Sudip Kumar Naskar, Jadavpur University
 - Syed Mobassir Hossen, Apsis Solutions
 - Tahmid Hasan, BUET
+- Tamanna Hossain-Kay, University of California, Irvine
 - Tanmoy Chakraborty, IIT Delhi
-- Tanvirul Alam, Rochester Institute of Technology
+- Tanvirul Alam, RIT
 - Wasi Ahmed, Amazon
