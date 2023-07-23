@@ -14,7 +14,7 @@ order : 1
 <p>To this end, we are starting a pre-submission mentoring program that begins on August 1th and will run until the paper submission deadline.</p>
 
 <h4 id="information-for-mentees">Information for Mentees</h4>
-<p>To apply to be a mentee, please fill out this <a href="https://forms.gle/hz5sgrcSpQWtutSA7" target="_blank">form</a> by July 31st. Please provide as much information you can so that we can find out a good match.</p>
+<p>To apply to be a mentee, please fill out this <a href="https://forms.gle/hYReTeaYmH644ZNd9" target="_blank">form</a> by July 31st. Please provide as much information you can so that we can find out a good match.</p>
 
 <h4 id="important-notes">Important Notes:</h4>
 <p>For any questions related to specific workshop submission deadlines, submission instructions and policies, please reach out to the workshop organizers.</p>
