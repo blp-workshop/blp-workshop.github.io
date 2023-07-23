@@ -10,3 +10,6 @@ order : 1
 We endorse the following shared task(s) and strongly encourage the participants to participate and submit the paper to the workshop.
 - [Violence Inciting Text Detection (VITD)](https://github.com/blp-workshop/blp_task1)
 - [Sentiment Analysis](https://github.com/blp-workshop/blp_task2)
+
+
+Participants of the shared tasks are encouraged to submit their system description paper to the workshop by the due deadline.
