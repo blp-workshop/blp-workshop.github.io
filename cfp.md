@@ -9,16 +9,16 @@ order : 1
 
 
 ### Call for Papers
-The First Bangla Language Processing Workshop workshop aims to provide a forum for the NLP, speech and multimodal communities to share and discuss their ongoing work with the international community. We particularly focus on Bangla, which is a low-resource language, and assess its current state-of-the-art and discuss strategies to make further progress in NLP, speech and multimodal research. 
+The First Bangla Language Processing Workshop workshop aims to provide a forum for the NLP, speech and multimodal communities to share and discuss their ongoing work with the international community. We particularly focus on Bangla, which is a low-resource language, and assess its current state-of-the-art and discuss strategies to make further progress in NLP, speech and multimodal research.
 
 Through this workshop, we plan to bring researchers together to come up with frameworks and strategies that can later support other low-resource languages. We encourage researchers to submit their papers focusing on novel methodologies and resources that help towards the progress of Bangla and other low resource languages. Novel methodologies include, but are not limited to, zero-shot learning, unsupervised learning, and simple yet effective methods applicable to low-computation scenarios.
 
 **We invite original research papers from a wide range of topics, including but not limited to:**
 <br>
 
-**1. Natural Language Processing** 
+**1. Natural Language Processing**
 * Corpus and Resource Development
-* Language Modeling 
+* Language Modeling
 * Stemmer
 * POS Tagger
 * Named Entity Recognition
@@ -30,7 +30,7 @@ Through this workshop, we plan to bring researchers together to come up with fra
 * Machine Translation
 * Sentiment Analysis
 
-**2. Speech Processing** 
+**2. Speech Processing**
 * Speech Synthesis and Spoken Language Generation
 * Speech Recognition
 * Phonetics
@@ -38,22 +38,25 @@ Through this workshop, we plan to bring researchers together to come up with fra
 * Spoken Dialog and Conversational System
 * Speaker and Language Detection
 
-**3. Multimodality** 
+**3. Multimodality**
 * OCR - Handwriting
 * Printed Document
 * Sign Language Detection and other areas related to multimodality
 
-**4. Human Computer Interaction** 
+**4. Human Computer Interaction**
 * Software for People with Diverse Abilities
 * Multimodal HCI for Bangla
 
 ### Important dates:
 <!-- - First call for workshop papers: 25 April 2023
 - Second call for workshop papers: 1 June 2023 -->
-- Workshop paper due: 1 September 2023
-- Notification of acceptance: 6 October 2023
-- Camera-ready papers due: 18 October 2023
-- Workshop dates: 6-7 December 2023
+- ~~Workshop paper due: 1 September 2023~~
+- Workshop paper due: 10 September 2023
+- ~~Notification of acceptance: 6 October 2023~~
+- Notification of acceptance: 10 October 2023
+- ~~Camera-ready papers due: 18 October 2023~~
+- Camera-ready papers due: 16 October 2023
+- Workshop dates: 7 December 2023
 
 ***All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).***
 
@@ -79,4 +82,3 @@ Submissions must be made using the START portal. We will make the URL to the por
 
 
 <!--**If you have any questions, please contact us at: bangla.nlp.workshop@gmail.com**-->
-

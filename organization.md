@@ -52,6 +52,7 @@ We thank [Shoaib Ahmed Dipu](https://www.bracu.ac.bd/about/people/shoaib-ahmed-d
 - Sheak Rashed Haider Noori, Daffodil University
 - Shubhra (Santu) Karmaker, Auburn University
 - Sivaji Bandyopadhay, National Institute of Technology Silchar
+- Somnath Banerjee, University of Tartu
 - Soujanya Poria, Singapore University of Technology and Design
 - Soumya Sarkar, Applied Scientist, Microsoft
 - Sudip Kumar Naskar, Jadavpur University
