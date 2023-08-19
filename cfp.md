@@ -56,7 +56,7 @@ Through this workshop, we plan to bring researchers together to come up with fra
 - Notification of acceptance: 10 October 2023
 - ~~Camera-ready papers due: 18 October 2023~~
 - Camera-ready papers due: 16 October 2023
-- Workshop dates: 8 December 2023
+- Workshop dates: 7 December 2023
 
 ***All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).***
 
