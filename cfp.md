@@ -78,7 +78,7 @@ Submissions are open to all, and are to be submitted anonymously. For the anonym
 **If you have published in the field previously, and are interested in helping out in the program committee to review papers, please fill up <a href="https://forms.gle/1WUYQjWT9UuqioX48" target="_blank">this form</a>.
 
 #### Submission portal
-Submissions must be made using the START portal. We will make the URL to the portal available soon.
+Submissions must be made using the <a href="https://openreview.net/group?id=EMNLP/2023/Workshop/BLP&referrer=%5BHomepage%5D(%2F)" target="_blank">OpenReview portal</a>. Every author of the paper needs to register in OpenReview.
 
 
 <!--**If you have any questions, please contact us at: bangla.nlp.workshop@gmail.com**-->
