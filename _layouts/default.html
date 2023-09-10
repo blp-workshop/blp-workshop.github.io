@@ -42,10 +42,13 @@
 
             <tr><td>Paper submission due</td>
               <td>
+                  Sep 12 12:59 PM (UTC-0)
+<!--
                 {% if papersubtask < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = papersubtask | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
                 {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
                 {{ papersubtask | date: "%b %-d (%a), %Y" }}
+-->
               </td>
             </tr>
 
