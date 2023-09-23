@@ -12,8 +12,19 @@ The first Bangla Language Processing (BLP) 2023 offers a unique opportunity for 
 
 Your organization may contact us at your earliest convenience. To better facilitate your request concerning sponsorship packages, you are encouraged to submit your application as early as possible and by October 15, 2023 in all cases.
 
+### Supported by
+[**EBLICT**](https://bangla.gov.bd/)
+<br/>
+<img src="images/projects-logos-18.svg" style="height:250px; width:auto;" alt="EBLICT">
+<!-- ![EBLICT](images/projects-logos-18.svg) -->
+
+## Sponsors
+
 ### Diamond
-To be announced
+[**CloudCamp Bangladesh**](https://cloudcampbd.org/)
+<br/>
+<img src="images/CloudCamp.jpg" style="height:150px; width:auto;" alt="CloudCamp">
+
 
 ### Platinum
 To be announced
@@ -25,4 +36,7 @@ To be announced
 To be announced
 
 ### Bronze
-To be announced
+<!-- ![Hishab](images/hishab.png) -->
+[**Hishab**](https://hishab.co/)
+<br/>
+<img src="images/hishab.png" style="height:150px; width:auto;" alt="CloudCamp">
