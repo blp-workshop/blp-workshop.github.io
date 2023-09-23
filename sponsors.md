@@ -15,8 +15,11 @@ Your organization may contact us at your earliest convenience. To better facilit
 ### Supported by
 [**EBLICT**](https://bangla.gov.bd/)
 <br/>
-<img src="images/projects-logos-18.svg" style="height:250px; width:auto;" alt="EBLICT">
+<img src="images/projects-logos-18.svg" style="height:200px; width:auto;" alt="EBLICT">
+<br/>
+
 <!-- ![EBLICT](images/projects-logos-18.svg) -->
+
 
 ## Sponsors
 
