@@ -20,17 +20,17 @@ Your organization may contact us at your earliest convenience. To better facilit
 
 
 <!-- ## Sponsors -->
-### Diamond
-[**CloudCamp Bangladesh**](https://cloudcampbd.org/)
-<br/>
-<img src="images/CloudCamp.jpg" style="height:150px; width:auto;" alt="CloudCamp">
+<!-- ### Diamond -->
+
 
 
 ### Platinum
 To be announced
 
 ### Gold
-To be announced
+[**CloudCamp Bangladesh**](https://cloudcampbd.org/)
+<br/>
+<img src="images/CloudCamp.jpg" style="height:150px; width:auto;" alt="CloudCamp">
 
 ### Silver
 To be announced
