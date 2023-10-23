@@ -14,7 +14,7 @@
       {% capture postresult %}{{'February 5 2023' | date: '%s'}}{% endcapture %}
       {% capture papersubsys %}{{'February 28 2023' | date: '%s'}}{% endcapture %}
       <!-- {% capture papersubtask %}{{'September 1 2023' | date: '%s'}}{% endcapture %} -->
-      {% capture papersubtask %}{{'September 10 2023' | date: '%s'}}{% endcapture %}
+      {% capture papersubtask %}{{'September 12 2023' | date: '%s'}}{% endcapture %}
       <!-- {% capture notif %}{{'September 29 2023' | date: '%s'}}{% endcapture %} -->
       {% capture notif %}{{'October 10 2023' | date: '%s'}}{% endcapture %}
       {% capture cam %}{{'October 17 2023' | date: '%s'}}{% endcapture %}
@@ -42,13 +42,10 @@
 
             <tr><td>Paper submission due</td>
               <td>
-                  Sep 12 12:59 PM (UTC-0)
-<!--
                 {% if papersubtask < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = papersubtask | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
                 {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
                 {{ papersubtask | date: "%b %-d (%a), %Y" }}
--->
               </td>
             </tr>
 
@@ -63,9 +60,9 @@
 
             <tr><td>Camera-ready due</td>
               <td>
-                {% if nowdate < nowdate %} <strike> <font color="grey">{% endif %}
+                {% if cam < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = cam | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
-                {% if datediff < 13  and datediff > -1 %} <font color="red"> {% endif %}
+                {% if datediff < 30 and datediff > -1 %} <font color="red"> {% endif %}
                 {{ cam | date: "%b %-d (%a), %Y" }}
 
               </td>
