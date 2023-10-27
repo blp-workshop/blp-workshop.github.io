@@ -30,13 +30,18 @@ To be announced
 ### Gold
 [**CloudCamp Bangladesh**](https://cloudcampbd.org/)
 <br/>
-<img src="images/CloudCamp.jpg" style="height:150px; width:auto;" alt="CloudCamp">
+<img src="images/CloudCamp.jpg" style="height:120px; width:auto;" alt="CloudCamp">
 
-### Silver
-To be announced
+<!-- ### Silver -->
+<!-- To be announced -->
 
 ### Bronze
 <!-- ![Hishab](images/hishab.png) -->
 [**Hishab**](https://hishab.co/)
 <br/>
 <img src="images/hishab.png" style="height:150px; width:auto;" alt="CloudCamp">
+
+
+[**BlackBird**](https://blackbird.ai/)
+<br/>
+<img src="images/blackbird.png" style="height:70px; width:auto;" alt="blackbird">
