@@ -35,7 +35,7 @@ order : 1
 *Chowdhury Rafeed Rahman, MD.Hasibur Rahman, Samiha Zakir, Mohammad Rafsan, Mohammed Eunus Ali*
 
 **10. Crosslingual Retrieval Augmented In-context Learning for Bangla**\
-*Xiaoqian Li, Sheng Liang, Ercong Nie*
+*Xiaoqian Li, Ercong Nie, Sheng Liang*
 
 **11. SynthNID: Synthetic Data to Improve End-to-end Bangla Document Key Information Extraction**\
 *Syed Mostofa Monsur, Shariar Kabir, Sakib Chowdhury*
