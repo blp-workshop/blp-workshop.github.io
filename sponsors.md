@@ -17,6 +17,10 @@ Your organization may contact us at your earliest convenience. To better facilit
 <br/>
 <img src="images/projects-logos-18.svg" style="height:200px; width:auto;" alt="EBLICT">
 <br/>
+[**Bangladesh Open Source Network (BdOSN)**](https://www.bdosn.org/)
+<div style="text-align:left;">
+    <img src="images/bdosn-logo.png" style="height:100px; width:auto;" alt="BdOSN Logo"/>
+</div>
 
 
 <!-- ## Sponsors -->
@@ -24,8 +28,8 @@ Your organization may contact us at your earliest convenience. To better facilit
 
 
 
-### Platinum
-To be announced
+<!-- ### Platinum
+To be announced -->
 
 ### Gold
 [**CloudCamp Bangladesh**](https://cloudcampbd.org/)
@@ -44,4 +48,14 @@ To be announced
 
 [**BlackBird**](https://blackbird.ai/)
 <br/>
-<img src="images/blackbird.png" style="height:70px; width:auto;" alt="blackbird">
+<img src="images/blackbird.png" style="height:60px; width:auto;" alt="blackbird">
+
+
+[**KANARI AI**](https://kanari.ai/)
+<br/>
+<img src="images/Kanari_AI_round.png" style="height:120px; width:auto;" alt="kanari">
+
+
+[**Amazon**](https://www.amazon.science/)
+<br/>
+<img src="images/amazon_logo_RGB_SQUID.png" style="height:70px; width:auto;" alt="amazon">

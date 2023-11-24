@@ -52,8 +52,22 @@ We are looking for sponsors. If you are interested please check [call for sponso
 <!-- ![Hishab](images/hishab.png) -->
 [**Hishab**](https://hishab.co/)
 <br/>
-<img src="images/hishab.png" style="height:90px; width:auto;" alt="CloudCamp">
+<img src="images/hishab.png" style="height:150px; width:auto;" alt="CloudCamp">
 
+
+[**BlackBird**](https://blackbird.ai/)
+<br/>
+<img src="images/blackbird.png" style="height:60px; width:auto;" alt="blackbird">
+
+
+[**KANARI AI**](https://kanari.ai/)
+<br/>
+<img src="images/Kanari_AI_round.png" style="height:120px; width:auto;" alt="kanari">
+
+
+[**Amazon**](https://www.amazon.science/)
+<br/>
+<img src="images/amazon_logo_RGB_SQUID.png" style="height:70px; width:auto;" alt="amazon">
 
 <!-- ## References
 * Firoj Alam, Arid Hasan, Tanvirul Alam, Akib Khan, Janntatul Tajrin, Naira Khan, and Shammur Absar Chowdhury. 2021a. [A review of bangla natural language processing tasks and the utility of transformer models](https://arxiv.org/pdf/2107.03844.pdf). arXiv preprint arXiv:2107.03844. -->
