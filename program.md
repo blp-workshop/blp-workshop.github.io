@@ -9,7 +9,7 @@ order : 1
 
 
 <!-- ## Schedule -->
-- **Thursday, December 7, 2023**
+**Thursday, December 7, 2023**
 
 #### 09:00 - 9:20 Opening Remarks
 
@@ -30,7 +30,7 @@ order : 1
 
 #### 10:30 - 11:00 Coffee Break
 
-#### 11:00 - 12:00 Poster Session I
+#### 11:00 - 12:00 Poster Session
 
 #### 12:00 - 13:00 Lunch Break
 
