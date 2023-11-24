@@ -9,9 +9,10 @@ order : 1
 
 
 <!-- ## Schedule -->
+- **Thursday, December 7, 2023**
 
 #### 09:00 - 9:20 Opening Remarks
-<!-- - **Time:** 09:00 - 9:20 -->
+
 
 #### 09:20 - 09:50 Invited Talk 1
 <!-- - **Time:** 09:20 - 09:50 -->
@@ -33,7 +34,7 @@ order : 1
 
 #### 12:00 - 13:00 Lunch Break
 
-#### 13:00 - 14:00Oral Presentation II (long papers)
+#### 13:00 - 14:00 Oral Presentation II (long papers)
 - **Session Chair: TBA**
   - **13:00 - 13:12: Low-Resource Text Style Transfer for Bangla: Data & Models**<br>
   Sourabrata Mukherjee, Akanksha Bansal, Pritha Majumdar, Atul Kr Ojha and Ondrej Dusek
@@ -46,40 +47,41 @@ order : 1
   - **13:48 - 14:00: Crosslingual Retrieval Augmented In-context Learning for Bangla**<br>
   Xiaoqian Li, Ercong Nie and Sheng Liang
 
-#### 14:00 - 15:00 Oral Presentation III (long + short papers)
+#### 14:00 - 14:10 Break
+#### 14:10 - 15:05 Oral Presentation III (long + short papers)
 - **Session Chair: TBA**
-  - **14:00 - 14:12: Investigating the Effectiveness of Graph-based Algorithm for Bangla Text Classification**<br>
+  - **14:10 - 14:22: Investigating the Effectiveness of Graph-based Algorithm for Bangla Text Classification**<br>
   Farhan Noor Dehan, Md Fahim, Amin Ahsan Ali, M Ashraful Amin and Akm- mahbubur Rahman
-  - **14:12 - 14:24: Pipeline Enabling Zero-shot Classification for Bangla Handwritten Grapheme**<br>
-  Linsheng Guo, Md Habibur Rahman Sifat and Tashin Ahmed
-  - **14:24 - 14:31: BanglaCHQ-Summ: An Abstractive Summarization Dataset for Medical Queries in Bangla Conversational Speech**<br>
+  - **14:22 - 14:29: BanglaCHQ-Summ: An Abstractive Summarization Dataset for Medical Queries in Bangla Conversational Speech**<br>
   Alvi Aveen Khan, Fida Kamal, Mohammad Abrar Chowdhury, Tasnim Ahmed, Md Tahmid Rahman Laskar and Sabbir Ahmed
-  - **14:31 - 14:38: Offensive Language Identification in Transliterated and Code-Mixed Bangla**<br>
+  - **14:29 - 14:36: Offensive Language Identification in Transliterated and Code-Mixed Bangla**<br>
   Md Nishat Raihan, Umma Hani Tanmoy, Anika Binte Islam, Kai North, Tharindu Ranasinghe, Antonios Anastasopoulos and Marcos Zampieri
-  - **14:38 - 14:45: Intent Detection and Slot Filling for Home Assistants: Dataset and Analysis for Bangla and Sylheti**<br>
+  - **14:36 - 14:43: Intent Detection and Slot Filling for Home Assistants: Dataset and Analysis for Bangla and Sylheti**<br>
   Fardin Ahsan Sakib, A H M Rezaul Karim, Saadat Hasan Khan and Md Mushfi- qur Rahman
-  - **14:45 - 14:52: Assessing Political Inclination of Bangla Language Models**<br>
+  - **14:43 - 14:50: Assessing Political Inclination of Bangla Language Models**<br>
   Sourabrata Mukherjee, Atul Kr Ojha and Ondrej Dusek
-  - **14:52 - 14:59: SynthNID: Synthetic Data to Improve End-to-end Bangla Document Key Information Extraction**<br>
+  - **14:50 - 14:57: SynthNID: Synthetic Data to Improve End-to-end Bangla Document Key Information Extraction**<br>
   Syed Mostofa Monsur, Shariar Kabir and Sakib Chowdhury
+  - **16:57 - 15:04: BEmoLexBERT: A Hybrid Model for Multilabel Textual Emotion Classification in Bangla by Combining Transformers with Lexicon Features**<br>
+  Ahasan Kabir, Animesh Chandra Roy and Zaima Sartaj Taheri
 
-### 15:00 - 15:30 Intited Talk 2
+### 15:05 - 15:35 Invited Talk 2
 - **Title:** Towards Transforming the Landscape of Indian language Technology
 - **Speaker:** [Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/)
 
-### 15:30 - 16:00 Coffee Break
+### 15:35 - 16:00 Coffee Break
 
-### 16:00 - 17:00 Oral Presentation IV (long papers)
+### 16:00 - 16:36 Oral Presentation IV (long papers)
   - **16:00 - 16:12: BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and Correction**<br>
   Nabilah Tabassum Oshin, Syed Mohaiminul Hoque, Md Fahim, Amin Ahsan Ali, M Ashraful Amin and Akmmahbubur Rahman
   - **16:12 - 16:24: Advancing Bangla Punctuation Restoration by a Monolingual Transformer-Based Method and a Large-Scale Corpus**<br>
   Mehedi Hasan Bijoy, Mir Fatema Afroz Faria, Mahbub E Sobhani, Tanzid Fer- doush and Swakkhar Shatabda
-  - **16:24 - 16:31: BEmoLexBERT: A Hybrid Model for Multilabel Textual Emotion Classification in Bangla by Combining Transformers with Lexicon Features**<br>
-  Ahasan Kabir, Animesh Chandra Roy and Zaima Sartaj Taheri
+  - **14:24 - 14:36: Pipeline Enabling Zero-shot Classification for Bangla Handwritten Grapheme**<br>
+  Linsheng Guo, Md Habibur Rahman Sifat and Tashin Ahmed
 
-### 16:31 - 17:10 Panel Discussion
+### 16:36 - 17:15 Panel Discussion
 
-### 17:10 - 17:25 Industry Talk
+### 17:15 - 17:30 Industry Talk
 - **Title:** Video Messages from Sponsors
 
-### 17:25 - 17:40 Awards and Ending Remarks
+### 17:30 - 17:45 Awards and Ending Remarks
