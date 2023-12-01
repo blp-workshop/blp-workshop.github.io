@@ -50,8 +50,8 @@ order : 1
 #### 14:00 - 14:10 Break
 #### 14:10 - 15:05 Oral Presentation III (long + short papers)
 - **Session Chair: TBA**
-  - **14:10 - 14:22: Investigating the Effectiveness of Graph-based Algorithm for Bangla Text Classification**<br>
-  Farhan Noor Dehan, Md Fahim, Amin Ahsan Ali, M Ashraful Amin and Akm- mahbubur Rahman
+  - **14:10 - 14:22: Advancing Bangla Punctuation Restoration by a Monolingual Transformer-Based Method and a Large-Scale Corpus**<br>
+  Mehedi Hasan Bijoy, Mir Fatema Afroz Faria, Mahbub E Sobhani, Tanzid Fer- doush and Swakkhar Shatabda
   - **14:22 - 14:29: BanglaCHQ-Summ: An Abstractive Summarization Dataset for Medical Queries in Bangla Conversational Speech**<br>
   Alvi Aveen Khan, Fida Kamal, Mohammad Abrar Chowdhury, Tasnim Ahmed, Md Tahmid Rahman Laskar and Sabbir Ahmed
   - **14:29 - 14:36: Offensive Language Identification in Transliterated and Code-Mixed Bangla**<br>
@@ -74,8 +74,8 @@ order : 1
 ### 16:00 - 16:36 Oral Presentation IV (long papers)
   - **16:00 - 16:12: BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and Correction**<br>
   Nabilah Tabassum Oshin, Syed Mohaiminul Hoque, Md Fahim, Amin Ahsan Ali, M Ashraful Amin and Akmmahbubur Rahman
-  - **16:12 - 16:24: Advancing Bangla Punctuation Restoration by a Monolingual Transformer-Based Method and a Large-Scale Corpus**<br>
-  Mehedi Hasan Bijoy, Mir Fatema Afroz Faria, Mahbub E Sobhani, Tanzid Fer- doush and Swakkhar Shatabda
+  - **16:12 - 16:24: Investigating the Effectiveness of Graph-based Algorithm for Bangla Text Classification**<br>
+  Farhan Noor Dehan, Md Fahim, Amin Ahsan Ali, M Ashraful Amin and Akm- mahbubur Rahman
   - **14:24 - 14:36: Pipeline Enabling Zero-shot Classification for Bangla Handwritten Grapheme**<br>
   Linsheng Guo, Md Habibur Rahman Sifat and Tashin Ahmed
 
