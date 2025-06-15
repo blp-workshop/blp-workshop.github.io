@@ -1,18 +1,22 @@
-# coding: utf-8
+Gem::Specification.new do |s|
+  s.name          = "jekyll-theme-cayman"
+  s.version       = "0.2.0"
+  s.license       = "CC0-1.0"
+  s.authors       = ["Jason Long", "GitHub, Inc."]
+  s.email         = ["opensource+jekyll-theme-cayman@github.com"]
+  s.homepage      = "https://github.com/pages-themes/cayman"
+  s.summary       = "Cayman is a Jekyll theme for GitHub Pages"
 
-Gem::Specification.new do |spec|
-  spec.name          = "jekyll-cayman-theme"
-  spec.version       = "0.1.0"
-  spec.authors       = ["Pietro F. Menna"]
-  spec.email         = ["pietromenna@yahoo.com"]
+  s.files         = `git ls-files -z`.split("\x0").select do |f|
+    f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
+  end
 
-  spec.summary       = %q{A Jekyll theme for the responsive theme for GitHub Pages http://jasonlong.github.io/cayman-theme/ }
-  spec.homepage      = "https://github.com/pietromenna/jekyll-cayman-theme"
-  spec.license       = "MIT"
+  s.required_ruby_version = ">= 2.4.0"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(_layouts|_includes|_sass|LICENSE|README)/i}) }
-
-  spec.add_development_dependency "jekyll", "~> 3.2"
-  spec.add_development_dependency "bundler", "~> 1.12"
-  spec.add_development_dependency "rake", "~> 10.0"
+  s.platform = Gem::Platform::RUBY
+  s.add_runtime_dependency "jekyll", "> 3.5", "< 5.0"
+  s.add_runtime_dependency "jekyll-seo-tag", "~> 2.0"
+  s.add_development_dependency "html-proofer"
+  s.add_development_dependency "rubocop-github", "~> 0.16"
+  s.add_development_dependency "w3c_validators", "~> 1.3"
 end

@@ -17,6 +17,9 @@ Your organization may contact us at your earliest convenience. To better facilit
 <br/>
 <img src="images/projects-logos-18.svg" style="height:200px; width:auto;" alt="EBLICT">
 <br/>
+
+[![Watch the video](https://drive.google.com/file/d/1-kcVyGdtQ5IWq1RzlxWI-F4M6s4T7rOw/view?resourcekey)
+
 [**Bangladesh Open Source Network (BdOSN)**](https://www.bdosn.org/)
 <div style="text-align:left;">
     <img src="images/bdosn-logo.png" style="height:100px; width:auto;" alt="BdOSN Logo"/>

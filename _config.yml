@@ -20,7 +20,7 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "First Workshop on Bangla Language Processing"
+title                    : "Second Workshop on Bangla Language Processing"
 title_separator          : "-"
 name                     : "Bangla NLP"
 description              : "Bangla NLP"

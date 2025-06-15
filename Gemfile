@@ -1,12 +1,7 @@
-source 'http://rubygems.org'
+source "https://rubygems.org"
+
 gemspec
-
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'kramdown'
-gem 'pygments.rb'
-gem "github-pages", 
-group: :jekyll_plugins
-
-gem "webrick", "~> 1.7"
-
+gem "webrick", "~> 1.9"
+gem 'csv'
+gem 'base64'
+gem 'kramdown-parser-gfm'
