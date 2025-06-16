@@ -6,59 +6,8 @@ order : 1
 ---
 
 ## Call for Sponsors
-The first Bangla Language Processing (BLP) 2023 offers a unique opportunity for companies and institutions to closely interact with the scholars in the academia and industry, and the postgraduate students in the field. You may contact the Sponsorship Chairs: Dr. Shammur Absar Chowdhury (email: shchowdhury@hbku.edu.qa), Dr. Ruhul Amin Shajib (email: shajib.sust@gmail.com) for [sponsorship packages](assets/Sponsorship_Brochure-BLP2023.pdf).
+The second Bangla Language Processing (BLP) 2025 offers a unique opportunity for companies and institutions to closely interact with the scholars in the academia and industry, and the postgraduate students in the field. You may contact the Sponsorship Chair: Dr. Shammur Absar Chowdhury (email: shchowdhury@hbku.edu.qa) for [sponsorship packages](#).
 
 
+Your organization may contact us at your earliest convenience. To better facilitate your request concerning sponsorship packages, you are encouraged to submit your application as early as possible and by October 15, 2025 in all cases.
 
-Your organization may contact us at your earliest convenience. To better facilitate your request concerning sponsorship packages, you are encouraged to submit your application as early as possible and by October 15, 2023 in all cases.
-
-### Supported by
-[**EBLICT**](https://bangla.gov.bd/)
-<br/>
-<img src="images/projects-logos-18.svg" style="height:200px; width:auto;" alt="EBLICT">
-<br/>
-
-[![Watch the video](https://drive.google.com/file/d/1-kcVyGdtQ5IWq1RzlxWI-F4M6s4T7rOw/view?resourcekey)
-
-[**Bangladesh Open Source Network (BdOSN)**](https://www.bdosn.org/)
-<div style="text-align:left;">
-    <img src="images/bdosn-logo.png" style="height:100px; width:auto;" alt="BdOSN Logo"/>
-</div>
-
-
-<!-- ## Sponsors -->
-<!-- ### Diamond -->
-
-
-
-<!-- ### Platinum
-To be announced -->
-
-### Gold
-[**CloudCamp Bangladesh**](https://cloudcampbd.org/)
-<br/>
-<img src="images/CloudCamp.jpg" style="height:120px; width:auto;" alt="CloudCamp">
-
-<!-- ### Silver -->
-<!-- To be announced -->
-
-### Bronze
-<!-- ![Hishab](images/hishab.png) -->
-[**Hishab**](https://hishab.co/)
-<br/>
-<img src="images/hishab.png" style="height:150px; width:auto;" alt="CloudCamp">
-
-
-[**BlackBird**](https://blackbird.ai/)
-<br/>
-<img src="images/blackbird.png" style="height:60px; width:auto;" alt="blackbird">
-
-
-[**KANARI AI**](https://kanari.ai/)
-<br/>
-<img src="images/Kanari_AI_round.png" style="height:120px; width:auto;" alt="kanari">
-
-
-[**Amazon**](https://www.amazon.science/)
-<br/>
-<img src="images/amazon_logo_RGB_SQUID.png" style="height:70px; width:auto;" alt="amazon">

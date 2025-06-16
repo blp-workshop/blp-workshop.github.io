@@ -7,7 +7,7 @@ order: 1
 
 The second Bangla Language Processing (BLP) Workshop will be co-located with IJCNLP-AACL in December 20-24, 2025 in Mumbai, India. More information will be announced soon.
 
-The first edition of BLP took place in 2023, in Singapore. The workshop attracted received 60+ submissions including regular workshop papers and submissions from two shared tasks.
+The first edition of BLP took place in 2023 as part of EMNLP, in Singapore. The workshop received 60+ submissions including regular workshop papers and submissions from two shared tasks.
 
 
 
@@ -19,7 +19,7 @@ The first edition of BLP took place in 2023, in Singapore. The workshop attracte
 -->
 
 
-## **Sponsorship**    
+## **Sponsor**    
 -----------
 We are looking for sponsors. If you are interested please check [call for sponsors](sponsors)
 
