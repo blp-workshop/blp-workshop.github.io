@@ -9,8 +9,7 @@ The second Bangla Language Processing (BLP) Workshop will be co-located with IJC
 
 The first edition of BLP took place in 2023 as part of EMNLP, in Singapore. The workshop received 60+ submissions including regular workshop papers and submissions from two shared tasks.
 
-
-
+Building on the success of the first edition, the 2025 workshop aims to bring together researchers to develop frameworks and strategies that not only advance Bangla language technologies but can also be extended to other low-resource languages. We particularly encourage submissions that present novel methodologies and resources—such as domain-specialized LLMs, efficient architectures, and low-computation solutions—that contribute to the broader goal of inclusive and accessible language technologies.
 
 
 <!--
