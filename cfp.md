@@ -76,7 +76,7 @@ Long, short and shared tasks papers must follow the ARR two-column format, using
 
 Submissions are open to all, and are to be submitted anonymously. For the anonymity, double-blind submission and reproducibility criteria please follow the <a href="https://aclrollingreview.org/cfp" target="_blank">ARR --> Instructions for Two-Way Anonymized Review</a>.
 
-**If you have published in the field previously, and are interested in helping out in the program committee to review papers, please fill up <a href="https://forms.gle/1WUYQjWT9UuqioX48" target="_blank">this form</a>.
+**If you have published in the field previously, and are interested in helping out in the program committee to review papers, please fill up <a href="https://forms.gle/1WUYQjWT9UuqioX48" target="_blank">this form</a>.**
 
 #### Submission portal
 Submissions must be made using the <a href="https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/BLP" target="_blank">OpenReview portal</a>. Every author of the paper needs to register in OpenReview.
