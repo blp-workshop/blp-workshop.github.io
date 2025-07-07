@@ -13,6 +13,7 @@ order : 1
 
 #### Program Chairs
 - [Naeemul Hassan](https://ischool.umd.edu/directory/naeemul-hassan/) University of Maryland, USA
+- [Enamul Hoque Prince](https://profiles.laps.yorku.ca/profiles/enamulh/) York University, Canada
 - [Shammur Absar Chowdhury](http://shammur.one/), Qatar Computing Research Institute, Qatar
 - [Tasnim Mohiuddin](https://taasnim.github.io/), Qatar Computing Research Institute, Qatar
 
