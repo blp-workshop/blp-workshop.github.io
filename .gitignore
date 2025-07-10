@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 **/.DS_Store
 old_html
+Gemfile.lock
+_site/sponsors.html
