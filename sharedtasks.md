@@ -10,7 +10,7 @@ order : 1
 We are pleased to endorse the following shared task(s) and strongly encourage participants to take part and submit their papers to the workshop:
 
 * [Task 1: Hate Speech Detection](https://github.com/AridHasan/blp25_task1)
-* [Task 2: Code Generation](https://noshinulfat.github.io/BLP-webiste-git/#/home)
+* [Task 2: Code Generation](https://noshinulfat.github.io/blp25_code_generation_task/)
 
 If you participate in these shared tasks, you are highly encouraged to submit a **system description paper** to the workshop by the submission deadline.
 
