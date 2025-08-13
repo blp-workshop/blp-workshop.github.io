@@ -11,10 +11,10 @@ order : 1
 
 <p>We hope this program can help create a path for prospective BLP authors who would not otherwise have considered participating in, or working on a submission to the workshop. We hope to establish valuable connections and first-hand training for these early-career researchers throughout the submission process. This program will provide the authors access to mentors who will provide them feedback on: (i) polishing the draft (ii) suggesting any missing experiments (iii) discussing interesting directions to extend the work etc.</p>
 
-<p>To this end, we are starting a pre-submission mentoring program that begins on August 1th and will run until the paper submission deadline.</p>
+<p>To this end, we are starting a pre-submission mentoring program that begins on September 5th and will run until the paper submission deadline.</p>
 
 <h4 id="information-for-mentees">Information for Mentees</h4>
-<p>To apply to be a mentee, please fill out this <a href="https://forms.gle/hYReTeaYmH644ZNd9" target="_blank">form</a> by July 31st. Please provide as much information you can so that we can find out a good match.</p>
+<p>To apply to be a mentee, please fill out this <a href="https://forms.gle/hYReTeaYmH644ZNd9" target="_blank">form</a> by August 30th. Please provide as much information you can so that we can find out a good match. Getting a mentor is not guarranted.</p>
 
 <h4 id="important-notes">Important Notes:</h4>
 <p>For any questions related to specific workshop submission deadlines, submission instructions and policies, please reach out to the workshop organizers.</p>
@@ -31,7 +31,7 @@ order : 1
   <li>Mentors and mentees are expected to communicate via email and/or video/audio chat. We encourage mentors and mentees to schedule regular check-ins before the submission deadline.</li>
 </ul>
 
-<p>We will have a mid-way check-in in August to check if the match is going well.</p>
+<p>We will have a mid-way check-in in September to check if the match is going well.</p>
 
 <p>Time commitment expected from the mentors is about 8 hours over the duration of the mentoring program.</p>
 
