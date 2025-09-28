@@ -17,7 +17,8 @@ If you participate in these shared tasks, you are highly encouraged to submit a 
 ### Important Dates
 
 - Shared task participation: For registration and system submission deadlines, please refer to the specific task pages linked above.
-- System description paper Submission: **29 September 2025**
+- System description paper Submission: **4 October 2025**
+- ~~System description paper Submission: **29 September 2025**~~
 - Notification of acceptance: **3 November 2025**
 - Camera-ready papers due: **11 November 2025**
 - Workshop date: **3 December 2025**
