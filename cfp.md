@@ -53,7 +53,8 @@ We invite researchers to submit original work presenting novel approaches and re
 * Multimodal HCI for Bangla
 
 ### Important dates:
-- Paper submission due: **29 September 2025**
+- Paper submission due: **4 October 2025**
+- ~~Paper submission due: **29 September 2025**~~
 - Notification of acceptance: **3 November 2025**
 - Camera-ready papers due: **11 November 2025**
 - Workshop dates: **23 December 2025**
