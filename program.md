@@ -5,83 +5,26 @@ permalink: /program
 order : 1
 ---
 
-<h2 style="color: #a61717">Program</h2>
+## Keynote
+**Title: Data'r Panchali: The Changing Landscape of Bangla NLP**
+
+**Abstract:**
+Over the past three decades, Natural Language Processing technologies in Bangla have made remarkable progress. The advent of generative AI has accelerated this journey, leading to impressive breakthroughs across multiple domains. Yet, two profound questions persist. First, what tangible benefits do these advances bring to Bangla speakers? Who stands to gain and who remains excluded? Second, has the technological gap between English (and other high-resource languages) and Bangla truly narrowed, or has it quietly widened?
+
+Ultimately, both the triumphs and the shortcomings of Bangla NLP trace back to one fundamental factor: the availability and absence of data. In this talk, I will explore these questions through both empirical analysis and personal reflection, examining how data shapes access, equity, and innovation. I will conclude with a discussion of some intriguing possibilities: how generative AI might illuminate deeper questions about culture, linguistic diversity, and the evolving identity of Bangla itself.
 
 
-<!-- ## Schedule -->
-**Thursday, December 7, 2023**
+**Speaker:** [Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/), Professor, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE.
 
-#### 09:00 - 9:20 Opening Remarks
+<img src="images/monojit.jpeg" alt="Monojit Choudhury" width="200"/>
+
+<br/>
+<br/>
+
+**Bio:** [Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/) is a Professor of Natural Language Processing at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in Abu Dhabi. His research sits at the intersection of language technology and society, with a particular focus on how foundation models learn and (mis)represent linguistic and cultural diversity, and how to design fair, inclusive language technologies for low-resource and marginalized languages. Prior to joining MBZUAI, he was a principal researcher at Microsoft Research India from 2009 to 2022 and a principal applied scientist at Microsoft Turing (part of Microsoft India Development Center) from 2022 to 2023. He also serves as adjunct faculty at the International Institute of Information Technology, Hyderabad (since 2017). Professor Choudhury is the general chair of the Panini Linguistics Olympiad (India’s national linguistics Olympiad) and founding co-chair of the Asia Pacific Linguistics Olympiad. He is deeply committed to popularizing linguistics and natural language processing among schoolchildren and non-experts, often through carefully designed puzzles and problem-solving activities.
 
 
-#### 09:20 - 09:50 Invited Talk 1
-<!-- - **Time:** 09:20 - 09:50 -->
-- **Title:** NLP in Mexican Spanish: A Path Through Shared Tasks
-- **Speaker:** [Manuel Montes-y-Gómez](https://ccc.inaoep.mx/~mmontesg/)
 
-#### 09:50 - 10:30 Oral Presentation I (long papers)
-- **Session Chair: TBA**
-  - **09:50 - 10:02: BSpell: A CNN-Blended BERT Based Bangla Spell Checker** <br>
-  Chowdhury Rafeed Rahman, MD.Hasibur Rahman, Samiha Zakir, Mohammad Rafsan and Mohammed Eunus Ali
-  - **10:02 - 10:14: BLP-2023 Task 1: Violence Inciting Text Detection (VITD)**<br>
-  Sourav Saha, Jahedul Alam Junaed, Maryam Saleki, Mohamed Rahouti, Nabeel Mohammed and Mohammad Ruhul Amin
-  - **10:14 - 10:26: BLP-2023 Task 2: Sentiment Analysis**<br>
-  Md. Arid Hasan, Firoj Alam, Anika Anjum, Shudipta Das and Afiyat Anjum
+## Workshop Schedule
 
-#### 10:30 - 11:00 Coffee Break
-
-#### 11:00 - 12:00 Poster Session
-
-#### 12:00 - 13:00 Lunch Break
-
-#### 13:00 - 14:00 Oral Presentation II (long papers)
-- **Session Chair: TBA**
-  - **13:00 - 13:12: Low-Resource Text Style Transfer for Bangla: Data & Models**<br>
-  Sourabrata Mukherjee, Akanksha Bansal, Pritha Majumdar, Atul Kr Ojha and Ondrej Dusek
-  - **13:12 - 13:24: Vio-Lens: A Novel Dataset of Annotated Social Network Posts Leading to Different Forms of Communal Violence and its Evaluation**<br>
-  Sourav Saha, Jahedul Alam Junaed, Maryam Saleki, Arnab Sen Sharma, Mo- hammad Rashidujjaman Rifat, Mohamed Rahouti, Syed Ishtiaque Ahmed, Na- beel Mohammed and Mohammad Ruhul Amin
-  - **13:24 - 13:36: Pseudo-Labeling for Domain-Agnostic Bangla Automatic Speech Recognition**<br>
-  Rabindra Nath Nandi, Mehadi Hasan Menon, Tareq Al Muntasir, Sagor Sarker, Quazi Sarwar Muhtaseem, Md. Tariqul Islam, Shammur Absar Chowdhury and Firoj Alam
-  - **13:36 - 13:48: Contextual Bangla Neural Stemmer: Finding Contextualized Root Word Representations for Bangla Words**<br>
-  Md Fahim, Amin Ahsan Ali, M Ashraful Amin and Akmmahbubur Rahman
-  - **13:48 - 14:00: Crosslingual Retrieval Augmented In-context Learning for Bangla**<br>
-  Xiaoqian Li, Ercong Nie and Sheng Liang
-
-#### 14:00 - 14:10 Break
-#### 14:10 - 15:05 Oral Presentation III (long + short papers)
-- **Session Chair: TBA**
-  - **14:10 - 14:22: Advancing Bangla Punctuation Restoration by a Monolingual Transformer-Based Method and a Large-Scale Corpus**<br>
-  Mehedi Hasan Bijoy, Mir Fatema Afroz Faria, Mahbub E Sobhani, Tanzid Fer- doush and Swakkhar Shatabda
-  - **14:22 - 14:29: BanglaCHQ-Summ: An Abstractive Summarization Dataset for Medical Queries in Bangla Conversational Speech**<br>
-  Alvi Aveen Khan, Fida Kamal, Mohammad Abrar Chowdhury, Tasnim Ahmed, Md Tahmid Rahman Laskar and Sabbir Ahmed
-  - **14:29 - 14:36: Offensive Language Identification in Transliterated and Code-Mixed Bangla**<br>
-  Md Nishat Raihan, Umma Hani Tanmoy, Anika Binte Islam, Kai North, Tharindu Ranasinghe, Antonios Anastasopoulos and Marcos Zampieri
-  - **14:36 - 14:43: Intent Detection and Slot Filling for Home Assistants: Dataset and Analysis for Bangla and Sylheti**<br>
-  Fardin Ahsan Sakib, A H M Rezaul Karim, Saadat Hasan Khan and Md Mushfi- qur Rahman
-  - **14:43 - 14:50: Assessing Political Inclination of Bangla Language Models**<br>
-  Sourabrata Mukherjee, Atul Kr Ojha and Ondrej Dusek
-  - **14:50 - 14:57: SynthNID: Synthetic Data to Improve End-to-end Bangla Document Key Information Extraction**<br>
-  Syed Mostofa Monsur, Shariar Kabir and Sakib Chowdhury
-  - **16:57 - 15:04: BEmoLexBERT: A Hybrid Model for Multilabel Textual Emotion Classification in Bangla by Combining Transformers with Lexicon Features**<br>
-  Ahasan Kabir, Animesh Chandra Roy and Zaima Sartaj Taheri
-
-### 15:05 - 15:35 Invited Talk 2
-- **Title:** Towards Transforming the Landscape of Indian language Technology
-- **Speaker:** [Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/)
-
-### 15:35 - 16:00 Coffee Break
-
-### 16:00 - 16:36 Oral Presentation IV (long papers)
-  - **16:00 - 16:12: BaTEClaCor: A Novel Dataset for Bangla Text Error Classification and Correction**<br>
-  Nabilah Tabassum Oshin, Syed Mohaiminul Hoque, Md Fahim, Amin Ahsan Ali, M Ashraful Amin and Akmmahbubur Rahman
-  - **16:12 - 16:24: Investigating the Effectiveness of Graph-based Algorithm for Bangla Text Classification**<br>
-  Farhan Noor Dehan, Md Fahim, Amin Ahsan Ali, M Ashraful Amin and Akm- mahbubur Rahman
-  - **14:24 - 14:36: Pipeline Enabling Zero-shot Classification for Bangla Handwritten Grapheme**<br>
-  Linsheng Guo, Md Habibur Rahman Sifat and Tashin Ahmed
-
-### 16:36 - 17:15 Panel Discussion
-
-### 17:15 - 17:30 Industry Talk
-- **Title:** Video Messages from Sponsors
-
-### 17:30 - 17:45 Awards and Ending Remarks
+TBA
