@@ -22,6 +22,13 @@ Building on the success of the first edition, the 2025 workshop aims to bring to
 -----------
 We are looking for sponsors. If you are interested please check [call for sponsors](sponsors)
 
+### Bronze
+
+[**BlackBird**](https://blackbird.ai/)
+
+<img src="images/blackbird.png" alt="blackbird" height="60" />
+
+
 
 ## **Anti-Harassment Policy**
 -------------
