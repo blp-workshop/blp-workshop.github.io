@@ -27,4 +27,6 @@ Ultimately, both the triumphs and the shortcomings of Bangla NLP trace back to o
 
 ## Workshop Schedule
 
-TBA
+Please check the link below for the detailed program. 
+
+[Program details](https://docs.google.com/spreadsheets/d/14viM6vNPgY85N7fQu7-SW9hq9DDxXYrJaacjrC7irec/edit?usp=sharing)
