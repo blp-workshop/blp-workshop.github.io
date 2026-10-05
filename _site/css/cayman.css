@@ -140,12 +140,12 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
-.page-header { color: #fff; text-align: center; background-color: #880808; background-image: linear-gradient(#2C3539, #2C3539, #2C3539); font-family: "Open Sans" }
+.page-header { color: #fff; text-align: center; background-color: #D7AB1A; background-image: linear-gradient(120deg, #E3BC3F, #D7AB1A, #C89B12); font-family: "Open Sans" }
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
 @media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
 
-.project-name { margin-top: 0; margin-bottom: 0.1rem; }
+.project-name { margin-top: 0; margin-bottom: 0.1rem; font-weight: 700; text-shadow: 0 2px 6px rgba(60, 40, 0, 0.45); }
 @media screen and (min-width: 64em) { .project-name { font-size: 3.25rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .project-name { font-size: 2.25rem; } }
 @media screen and (max-width: 42em) { .project-name { font-size: 1.75rem; } }

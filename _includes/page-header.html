@@ -2,7 +2,7 @@
   <div class="container">
     <a class="navbar-brand" href="{{ site.baseurl }}/">
        <img src="{{ site.baseurl }}/favicon.ico" alt="logo" width="6%" height="6%">
-      <b>BLP Workshop @ IJCNLP-AACL 2025</b>
+      <b>BLP Workshop @ NAACL 2027</b>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -10,47 +10,51 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="{{ site.baseurl }}/" id="home"><b>Home</b></a>
+          <a class="nav-link{% if page.url == '/' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/" id="home"><b>Home</b></a>
         </li>
-        <li class="nav-item">
-        <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/program"><b>Program</b></a>
-        </li>
+        <!-- <li class="nav-item">
+        <a class="nav-link{% if page.url == '/program' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/program"><b>Program</b></a>
+        </li> -->
 
           <!-- <li class="nav-item">
-        <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/awards"><b>Awards</b></a>
+        <a class="nav-link{% if page.url == '/awards' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/awards"><b>Awards</b></a>
         </li>
           <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/accepted"><b>Papers</b></a>
+          <a class="nav-link{% if page.url == '/accepted' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/accepted"><b>Papers</b></a>
         </li>
  -->
 
 
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/cfp"><b>CFP</b></a>
+          <a class="nav-link{% if page.url == '/cfp' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/cfp"><b>CFP</b></a>
         </li>
-        <li class="nav-item">
-        <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/accepted"><b>Papers</b></a>
+        <!-- <li class="nav-item">
+        <a class="nav-link{% if page.url == '/accepted' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/accepted"><b>Papers</b></a>
         </li>
            <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/mentoring"><b>Mentoring</b></a>
-        </li>
+          <a class="nav-link{% if page.url == '/mentoring' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/mentoring"><b>Mentoring</b></a>
+        </li> -->
 
 
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/sharedtasks"><b>Shared Tasks</b></a
+          <a class="nav-link{% if page.url == '/sharedtasks' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/sharedtasks"><b>Shared Tasks</b></a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/organizers"><b>Organizers</b></a>
+          <a class="nav-link{% if page.url == '/organizers' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/organizers"><b>Organizers</b></a>
         </li>
          <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/sponsors"><b>Sponsors</b></a>
+          <a class="nav-link{% if page.url == '/sponsors' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/sponsors"><b>Sponsors</b></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/contact"><b>Contact</b></a>
+          <a class="nav-link{% if page.url == '/contact' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/contact"><b>Contact</b></a>
         </li>
          <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="{{ site.baseurl }}/2023/"><b><font color="#a61717">First Edition</font></b></a>
+          <a class="nav-link" href="#" onclick="this.nextElementSibling.classList.toggle('show'); return false;" aria-haspopup="true"><b><font color="#a61717">Previous Editions</font></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="{{ site.baseurl }}/2023/"><b><font color="#a61717">First Edition</font></b></a></li>
+            <li><a href="{{ site.baseurl }}/2025/"><b><font color="#2C3539">Second Edition</font></b></a></li>
+          </ul>
         </li>
       </ul>
     </div>
