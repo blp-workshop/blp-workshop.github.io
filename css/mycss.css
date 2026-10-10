@@ -25,6 +25,7 @@
   padding: 5px 20px;
   text-decoration: none;
   color: black;
+  white-space: nowrap;
 }
 
 .dropdown-menu li a:hover {
