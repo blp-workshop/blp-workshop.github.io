@@ -57,6 +57,7 @@ naver_site_verification  :
 
 # # Reading Files
 include : ['.htaccess', '_pages', ]
+exclude : ['upload.sh']
 
 # Includes an icon in the footer for each username you enter
 footer-links:
