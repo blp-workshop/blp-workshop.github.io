@@ -9,9 +9,9 @@ order : 1
 
 We are pleased to endorse the following shared tasks and strongly encourage participants to take part and submit their papers to the workshop:
 
-- **Task 1 - Adversarial Prompt Classification:** Identifying benign and adversarial prompts in Bangla, including jailbreaks, prompt injection, and code-mixed or transliterated attempts to bypass LLM safety safeguards.
-- **Task 2 - Multilingual Question Answering:** Culturally and regionally grounded open-ended QA in **Bangla, English, Assamese, and Hindi**, with monolingual QA and multilingual QA settings based on the MultiNativQA resource.
-- **[Task 3 - BLP Datathon]({{ '/datathon' | relative_url }}):** Collecting regional Bangla speech recordings and identifying where open-source automatic speech recognition (ASR) models struggle with different dialects and accents through community-driven participation.
+- **<a href="https://banglaknight.github.io/" target="_blank">Task 1 - Adversarial Prompt Classification</a>:** Classifying Bangla prompts, from harmless requests to jailbreak attempts, into four risk levels (Safe, Offensive, Harmful, Severe), whether written in Bangla script, romanized Bangla, or code-mixed with other languages. <a href="https://banglaknight.github.io/" target="_blank">Task details &rarr;</a>
+- <span id="task2"></span>**Task 2 - Multilingual Question Answering:** Culturally and regionally grounded open-ended QA in **Bangla, English, Assamese, and Hindi**, with monolingual QA and multilingual QA settings based on the MultiNativQA resource.
+- <span id="task3"></span>**[Task 3 - BLP Datathon]({{ '/datathon' | relative_url }}):** Collecting regional Bangla speech recordings and identifying where open-source automatic speech recognition (ASR) models struggle with different dialects and accents through community-driven participation.
 
 If you participate in these shared tasks, you are highly encouraged to submit a **system description paper** to the workshop by the submission deadline.
 

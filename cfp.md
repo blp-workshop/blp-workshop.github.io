@@ -30,7 +30,7 @@ We welcome papers on topics including, but not limited to:
 
 BLP 2027 also plans to organize three shared tasks:
 
-- **Task 1 - Adversarial Prompt Classification:** Identifying benign and adversarial prompts in Bangla, including jailbreaks, prompt injection, and code-mixed or transliterated attempts to bypass LLM safety safeguards.
+- **Task 1 - Adversarial Prompt Classification:** Classifying Bangla prompts, from harmless requests to jailbreak attempts, into four risk levels (Safe, Offensive, Harmful, Severe), whether written in Bangla script, romanized Bangla, or code-mixed with other languages.
 - **Task 2 - Multilingual Question Answering:** Culturally and regionally grounded open-ended QA in Bangla, English, Assamese, and Hindi, with monolingual QA and multilingual QA settings based on the MultiNativQA resource.
 - **Task 3 - BLP Datathon:** Collecting regional Bangla speech recordings and identifying where open-source automatic speech recognition (ASR) models struggle with different dialects and accents through community-driven participation.
 

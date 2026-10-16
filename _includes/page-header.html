@@ -37,7 +37,12 @@
 
 
         <li class="nav-item">
-          <a class="nav-link{% if page.url == '/sharedtasks' or page.url == '/datathon' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/sharedtasks"><b>Shared Tasks</b></a>
+          <a class="nav-link{% if page.url == '/sharedtasks' or page.url == '/datathon' %} active{% endif %}" aria-current="page" href="{{ site.baseurl }}/sharedtasks" aria-haspopup="true"><b>Shared Tasks</b></a>
+          <ul class="dropdown-menu">
+            <li><a href="https://banglaknight.github.io/"><b>Task 1: BanglaKnight</b></a></li>
+            <li><a href="{{ site.baseurl }}/sharedtasks#task2"><b>Task 2: Multilingual QA</b></a></li>
+            <li><a href="{{ site.baseurl }}/datathon"><b>Task 3: BLP Datathon</b></a></li>
+          </ul>
         </li>
 
         <li class="nav-item">
