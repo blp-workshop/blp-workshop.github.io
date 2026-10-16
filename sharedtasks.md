@@ -11,7 +11,7 @@ We are pleased to endorse the following shared tasks and strongly encourage part
 
 - **Task 1 - Adversarial Prompt Classification:** Identifying benign and adversarial prompts in Bangla, including jailbreaks, prompt injection, and code-mixed or transliterated attempts to bypass LLM safety safeguards.
 - **Task 2 - Multilingual Question Answering:** Culturally and regionally grounded open-ended QA in **Bangla, English, Assamese, and Hindi**, with monolingual QA and multilingual QA settings based on the MultiNativQA resource.
-- **Task 3 - BLP Datathon:** Collecting regional Bangla speech recordings and identifying where open-source automatic speech recognition (ASR) models struggle with different dialects and accents through community-driven participation.
+- **[Task 3 - BLP Datathon]({{ '/datathon' | relative_url }}):** Collecting regional Bangla speech recordings and identifying where open-source automatic speech recognition (ASR) models struggle with different dialects and accents through community-driven participation.
 
 If you participate in these shared tasks, you are highly encouraged to submit a **system description paper** to the workshop by the submission deadline.
 
