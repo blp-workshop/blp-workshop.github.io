@@ -18,7 +18,7 @@ order : 1
 - [Md Tahmid Rahman Laskar](https://sites.google.com/view/tahmedge/home), Dialpad, Canada
 
 ## Shared Task Organizers
-TBA
+Please check task specific site.
 
 ## Program Committee
 
