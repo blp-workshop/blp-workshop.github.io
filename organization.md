@@ -88,7 +88,7 @@ Please check task specific site.
 - **Subrata Ashe** - Meta (United States)
 - **Tahmid Hasan Sakib** - Tennessee Technological University (United States)
 - **Tirtho Roy** - Iowa State University (United States)
-- **Wenke** - Cornell University (United States)
+- **Wenke Du** - Cornell University (United States)
 - **Xinjin Li** - Columbia University (United States)
 - **Yash Gupta** - Headlands Technologies (United States)
 - **Yichen Wang** - Georgia Institute of Technology (United States)
